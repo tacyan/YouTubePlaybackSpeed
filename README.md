@@ -1,0 +1,2 @@
+# YouTubePlaybackSpeed
+ YouTubeの再生速度を5倍速まで永続的に変更出来ます。Chromeの拡張機能にあります。
