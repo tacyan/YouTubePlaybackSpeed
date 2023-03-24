@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "YouTube Playback Speed",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Adjust the playback speed of YouTube videos using a Chrome extension.",
-  "permissions": ["storage", "scripting", "tabs"],
+  "permissions": ["storage", "tabs"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
